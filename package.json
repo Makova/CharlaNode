@@ -1,0 +1,19 @@
+{
+  "name": "manu",
+  "version": "1.0.0",
+  "description": "charla brujeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makova/CharlaNode.git"
+  },
+  "author": "Manu Cogolludo",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/Makova/CharlaNode/issues"
+  },
+  "homepage": "https://github.com/Makova/CharlaNode#readme"
+}
