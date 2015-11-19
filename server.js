@@ -12,3 +12,10 @@ http.listen(9090, function() {
     //Another magical callback
     console.log("Magic happens in port 9090");
 });
+
+//requires and stuff
+app.use(express.static('public')); //makes public folder as root of resources
+app.get('/', function(req, res) {
+    res.redirect('/index.html'); //redirects to index.html
+});
+//more code and stuff here
