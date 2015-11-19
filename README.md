@@ -1,1 +1,1 @@
-# Charla sobre Node.js del curso Brujería con Node.js
+# Charla curso Brujería con Node.js
